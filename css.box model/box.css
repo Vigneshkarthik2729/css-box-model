@@ -1,0 +1,41 @@
+*{
+  box-sizing: border-box;
+  
+}
+
+.div{
+  width: 500px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+}
+img{
+  max-width: 100%;
+}
+
+.margin{
+  margin: 25px 200px 75px 200px; 
+  margin: 50px 20px;
+  border: 2px solid black;
+}
+
+.border{
+  border: 8px double blue;
+  }
+.h2{
+  border-style: dotted;
+  border-radius: 30px;
+}
+div.padding{
+  border: 2px solid black;
+  padding-top: 80px;
+  padding-right: 70px;
+  padding-bottom: 80px;
+  padding-left: 65px;
+}
+
+.height-width{
+  height: 150px;
+  width: 250px;
+  background-color: blueviolet;
+}
